@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Frontend developer with a strong foundation in modern web development technologies. I specialize in building high-quality web applications that are responsive, scalable, and performant. With a keen eye for detail and a commitment to delivering top-notch results. 
+I'm a passionate Frontend developer with a strong foundation in modern web development technologies. My aim is to build high-quality web applications that are responsive, scalable, and performant. With a keen eye for detail and a commitment to delivering top-notch results. 
 Currently exploring new technologies and learning from my peers in the React community.
 
 I am always excited to collaborate on new projects and I am open to discussing any opportunities in the frontend development field.
