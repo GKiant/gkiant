@@ -15,10 +15,5 @@ I'm currently looking for collaborations with React projects and I'm currently l
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GKiant&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=g_kiant)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=GKiant&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
